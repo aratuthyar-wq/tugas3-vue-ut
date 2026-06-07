@@ -1,0 +1,218 @@
+{
+    "upbjjList": [
+        "Jakarta",
+        "Surabaya",
+        "Makassar",
+        "Padang",
+        "Denpasar"
+    ],
+    "kategoriList": [
+        "MK Wajib",
+        "MK Pilihan",
+        "Praktikum",
+        "Problem-Based"
+    ],
+    "pengirimanList": [
+        {
+            "kode": "REG",
+            "nama": "Reguler (3-5 hari)"
+        },
+        {
+            "kode": "EXP",
+            "nama": "Ekspres (1-2 hari)"
+        }
+    ],
+    "paket": [
+        {
+            "kode": "PAKET-UT-001",
+            "nama": "PAKET IPS Dasar",
+            "isi": [
+                "EKMA4116",
+                "EKMA4115"
+            ],
+            "harga": 120000
+        },
+        {
+            "kode": "PAKET-UT-002",
+            "nama": "PAKET IPA Dasar",
+            "isi": [
+                "BIOL4201",
+                "FISIP4001"
+            ],
+            "harga": 140000
+        }
+    ],
+    
+        "stok": [
+          {
+            "kode": "BIOL4201",
+            "judul": "Biologi Umum",
+            "kategori": "Praktikum",
+            "upbjj": "Surabaya",
+            "lokasiRak": "R3-B2",
+            "harga": 80000,
+            "qty": 12,
+            "safety": 10,
+            "catatanHTML": "Butuh pendingin"
+          },
+          {
+            "kode": "FISIP4001",
+            "judul": "Dasar Sosiologi",
+            "kategori": "MK Pilihan",
+            "upbjj": "Makassar",
+            "lokasiRak": "R2-C1",
+            "harga": 55000,
+            "qty": 0,
+            "safety": 8,
+            "catatanHTML": "Stok habis"
+          },
+          {
+            "kode": "EKMA4310",
+            "judul": "Kepemimpinan",
+            "kategori": "MK Wajib",
+            "upbjj": "Surabaya",
+            "lokasiRak": "R2-B3",
+            "harga": 65000,
+            "qty": 278,
+            "safety": 30,
+            "catatanHTML": "<em>Edisi 1</em>"
+          },
+          {
+            "kode": "MKDI4203",
+            "judul": "Kewirausahaan di Era Digital",
+            "kategori": "MK Pilihan",
+            "upbjj": "Jakarta",
+            "lokasiRak": "R4-B2",
+            "harga": 60000,
+            "qty": 43,
+            "safety": 10,
+            "catatanHTML": "<em>Edisi 1</em>"
+          },
+          {
+            "kode": "EKMA4216",
+            "judul": "Manajemen Keuangan",
+            "kategori": "MK Wajib",
+            "upbjj": "Jakarta",
+            "lokasiRak": "R2-A1",
+            "harga": 60000,
+            "qty": 392,
+            "safety": 40,
+            "catatanHTML": "<em>Edisi 3</em>"
+          },
+          {
+            "kode": "BIOL4211",
+            "judul": "Mikrobiologi Dasar",
+            "kategori": "Praktikum",
+            "upbjj": "Malang",
+            "lokasiRak": "R1-C2",
+            "harga": 85000,
+            "qty": 165,
+            "safety": 20,
+            "catatanHTML": "<em>Edisi 2</em>"
+          },
+          {
+            "kode": "STSI4209",
+            "judul": "Pemrograman Berbasis Web",
+            "kategori": "Praktikum",
+            "upbjj": "Jakarta",
+            "lokasiRak": "R3-B1",
+            "harga": 75000,
+            "qty": 310,
+            "safety": 35,
+            "catatanHTML": "<em>Edisi 2</em>"
+          },
+          {
+            "kode": "EKMA4115",
+            "judul": "Pengantar Akuntansi",
+            "kategori": "MK Wajib",
+            "upbjj": "Jakarta",
+            "lokasiRak": "R1-A4",
+            "harga": 60000,
+            "qty": 7,
+            "safety": 15,
+            "catatanHTML": "<strong>Cover baru</strong>"
+          },
+          {
+            "kode": "SKOM4101",
+            "judul": "Pengantar Ilmu Komunikasi",
+            "kategori": "MK Wajib",
+            "upbjj": "Jakarta",
+            "lokasiRak": "R3-A1",
+            "harga": 55000,
+            "qty": 548,
+            "safety": 50,
+            "catatanHTML": "<em>Edisi 2</em>"
+          },
+          {
+            "kode": "EKMA4116",
+            "judul": "Pengantar Manajemen",
+            "kategori": "MK Wajib",
+            "upbjj": "Jakarta",
+            "lokasiRak": "R1-A3",
+            "harga": 65000,
+            "qty": 28,
+            "safety": 20,
+            "catatanHTML": "<em>Edisi 2024</em>"
+          },
+          {
+            "kode": "PAUD4401",
+            "judul": "Perkembangan Anak Usia Dini",
+            "kategori": "MK Wajib",
+            "upbjj": "Medan",
+            "lokasiRak": "R3-C3",
+            "harga": 55000,
+            "qty": 204,
+            "safety": 25,
+            "catatanHTML": "<em>Edisi 4</em>"
+          },
+          {
+            "kode": "STSI4102",
+            "judul": "Statistika Dasar",
+            "kategori": "MK Wajib",
+            "upbjj": "Denpasar",
+            "lokasiRak": "R4-A1",
+            "harga": 75000,
+            "qty": 0,
+            "safety": 15,
+            "catatanHTML": "Stok <strong>Habis</strong>"
+          }
+        ],
+      
+   
+    "tracking": [
+        {
+            "DO2025-0001": {
+                "nim": "123456789",
+                "nama": "Rina Wulandari",
+                "status": "Dalam Perjalanan",
+                "ekspedisi": "JNE",
+                "tanggalKirim": "2025-08-25",
+                "paket": "PAKET-UT-001",
+                "total": 120000,
+                "perjalanan": [
+                    {
+                        "waktu": "2025-08-25 10:12:20",
+                        "keterangan": "Penerimaan di Loket: TANGSEL"
+                    }
+                ]
+            }
+        },
+        {
+            "DO2025-0001": {
+                "nim": "123456789",
+                "nama": "Rina Wulandari",
+                "status": "Dalam Perjalanan",
+                "ekspedisi": "JNE",
+                "tanggalKirim": "2025-08-25",
+                "paket": "PAKET-UT-001",
+                "total": 120000,
+                "perjalanan": [
+                    {
+                        "waktu": "2025-08-25 10:12:20",
+                        "keterangan": "Penerimaan di Loket: TANGSEL"
+                    }
+                ]
+            }
+        }
+    ]
+}
